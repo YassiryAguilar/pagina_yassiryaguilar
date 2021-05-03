@@ -1,0 +1,40 @@
+{/*para dar espacio/
+	margin: 0;
+	padding:0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+	}
+header{/Para el titulo del header de la pestaña de html/
+	display:block;
+	background:white;
+	padding:1px 10px;
+}
+
+.navegacion{/Para el tamaño del margen del menu/
+	display :block;
+	width:800px;
+	margin:50px auto;
+	background:#D3AE68;
+	}
+	  .menu {
+  padding:5px;
+  
+  }
+  .menu li{
+  display:inline;
+  }
+  .menu li a{
+  font-family:Arial Narrow;
+  font-size:20px;
+  text-decoration:none;
+  float:center;
+  padding:10px;
+  background-color:RED;
+  color: #ffffff;
+  
+  }
+  .menu li a:hover{
+  background-color: #000000;
+  padding-bottom: 4px;
+  }
